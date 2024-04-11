@@ -1,4 +1,4 @@
-package com.zy;
+package com.tetSpug;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

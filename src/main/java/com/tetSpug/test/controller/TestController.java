@@ -1,4 +1,4 @@
-package com.zy.test.controller;
+package com.tetSpug.test.controller;
 
 import org.springframework.web.bind.annotation.*;
 
